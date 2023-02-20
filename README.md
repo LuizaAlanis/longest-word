@@ -1,4 +1,4 @@
-# Longest Word
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Longest+word;Logic+exercise)](https://git.io/typing-svg)
 
 Have the function LongestWord(sen) take the sen parameter being passed and return the longest word in the string. 
 If there are two or more words that are the same length, return the first word from the string with that length. 
